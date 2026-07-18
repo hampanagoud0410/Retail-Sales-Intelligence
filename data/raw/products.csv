@@ -1,0 +1,56 @@
+product_id,category_id,product_name,brand,cost_price,selling_price
+1,1,Galaxy S24,Samsung,1306,3174
+2,1,iPhone 16,Apple,3204,4470
+3,1,WH-1000XM5 Headphones,Sony,2391,4000
+4,1,Inspiron Laptop,Dell,547,1051
+5,1,LaserJet Printer,HP,4809,5685
+6,1,ThinkPad Laptop,Lenovo,1590,3571
+7,1,EOS Camera,Canon,2666,3667
+8,1,Wireless Mouse,Logitech,4965,5806
+9,2,Office Chair,Godrej,3150,4256
+10,2,Study Table,Godrej,1118,3041
+11,2,Bookshelf,IKEA,1594,1777
+12,2,Plastic Chair,Nilkamal,3145,4110
+13,2,Executive Desk,Durian,3799,5759
+14,3,Notebook,Cello,3097,3497
+15,3,Ball Pen,Cello,1749,3558
+16,3,Register,Classmate,3660,5241
+17,3,Marker Set,Camlin,1555,2744
+18,3,Pencil Box,Faber-Castell,2482,3738
+19,4,Running T-Shirt,Nike,3012,4242
+20,4,Track Pants,Adidas,855,1500
+21,4,Sports Jacket,Puma,1979,3852
+22,4,Jeans,Levi's,4305,6285
+23,4,Formal Shirt,Allen Solly,2558,3536
+24,5,Pressure Cooker,Prestige,1245,3141
+25,5,Mixer Grinder,Prestige,2120,3748
+26,5,Electric Kettle,Philips,4500,5969
+27,5,Ceiling Fan,Bajaj,2115,2872
+28,5,Microwave Oven,Whirlpool,2430,2586
+29,6,Salt,Tata,1574,2790
+30,6,Atta,Aashirvaad,2656,4272
+31,6,Cooking Oil,Fortune,2833,4156
+32,6,Butter,Amul,3470,5328
+33,6,Coffee,Nestle,4705,6099
+34,7,Football,Nike,2109,2987
+35,7,Cricket Bat,Adidas,4913,6064
+36,7,Badminton Racket,Yonex,3384,4087
+37,7,Gym Bag,Puma,1224,2660
+38,8,Face Wash,Lakme,4047,5728
+39,8,Body Lotion,Nivea,3603,4185
+40,8,Shampoo,Dove,4055,4629
+41,8,Face Cream,Mamaearth,3203,4890
+42,9,Building Blocks,LEGO,4425,6305
+43,9,Board Game,Funskool,4162,5724
+44,9,Fashion Doll,Barbie,2723,4023
+45,9,Toy Car,Hot Wheels,712,1372
+46,10,Python Programming,Penguin,1144,1948
+47,10,SQL Cookbook,O'Reilly,1173,3041
+48,10,Data Analytics,McGraw Hill,2760,3592
+49,10,Business Statistics,Pearson,3897,4304
+50,11,Car Battery,Bosch,3254,3409
+51,11,Engine Oil,Castrol,642,1902
+52,11,Car Tyre,Michelin,2126,3684
+53,12,Dog Food,Pedigree,1001,2702
+54,12,Cat Food,Whiskas,1723,3381
+55,12,Pet Toy,Trixie,861,1648
